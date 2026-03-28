@@ -1,6 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack projects with PHP, Laravel, React, and Android (Java)<br>👯 I’m looking to collaborate on modern web apps, scalable APIs, and mobile solutions<br>🤝 I’m looking for help with building high-performance systems and exploring advanced React patterns<br>🌱 I’m currently learning progressive React architecture & advanced Laravel features<br>💬 Ask me about Laravel, PHP, JavaScript, React, and Android Java<br>⚡ Fun fact: I can jump from debugging backend queries to fixing Android UI issues without losing my coffee!
+Hi, I'm Hafiz Furqan 👋  
+Senior Full Stack Engineer (Laravel + React)
 
+I build scalable SaaS, ERP, and eCommerce systems.
+
+🔧 Tech: Laravel, React, APIs, MySQL  
+🌍 Open to remote opportunities  
+
+🔗 Portfolio: https://leofurqan.com
+🔗 LinkedIn: https://linkedin.com/in/leofurqan
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/leofurqanofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leofurqan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leofurqan27@gmail.com) 
